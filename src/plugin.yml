@@ -1,0 +1,5 @@
+name: Catnips
+version: 1.0
+author: fleur
+main: com.fleur.catnips.Catnips
+api-version: 1.14
